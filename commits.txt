@@ -1,0 +1,17 @@
+commit a5f100ca52464bcc70e52b4cc3e25906ff1c53f0
+Author: LAOB <luis.ojedabe@anahuac.mx>
+Date:   Thu Oct 29 09:19:25 2020 -0600
+
+    Se puede regresar a principal
+
+commit 198e78d8ee904bfaf003d14ad37ac0143e43bad3
+Author: LAOB <luis.ojedabe@anahuac.mx>
+Date:   Thu Oct 29 09:09:17 2020 -0600
+
+    Cambio titulo en principal
+
+commit 11cf93691c2ae8c99c5e682c4e45c54ce5d81e82
+Author: LAOB <luis.ojedabe@anahuac.mx>
+Date:   Thu Oct 29 09:02:54 2020 -0600
+
+    Iniciamos
